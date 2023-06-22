@@ -1,0 +1,10 @@
+{
+  "name": "jweixin-proxy",
+  "version": "1.6.0-beta",
+  "main": "index.js",
+  "description": "微信官方 js-sdk 代理版",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenkechen/jweixin-proxy.git"
+  }
+}
